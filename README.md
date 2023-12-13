@@ -6,7 +6,7 @@ mongodb
 reactjs
 express  (Nodejs)
 
-open the folder web_project you will find two folders the client and server  
+open the folder web_project_iCare you will find two folders the client and server  
 in the terminal run cd client to enter in the client folder
 
 here run yarn 
